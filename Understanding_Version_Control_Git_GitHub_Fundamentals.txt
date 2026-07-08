@@ -1,5 +1,5 @@
 Assignment Title Understanding Version Control, Git, and GitHub
-Fundamentals
+Fundamental
 
 
 1.  What is Version Control and Why is it Important?
