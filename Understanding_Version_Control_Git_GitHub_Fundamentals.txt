@@ -1,6 +1,7 @@
 Assignment Title Understanding Version Control, Git, and GitHub
 Fundamentals
 
+
 1.  What is Version Control and Why is it Important?
 
 Version control is a system that records changes made to files over
